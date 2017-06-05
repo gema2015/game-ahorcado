@@ -220,7 +220,7 @@ public class Lamina extends JPanel {
 		add(boton4);
 
 		
-		// Procesador de texto -------------------
+		// Procesador de texto --------------------
 		procesador.setPreferredSize(new Dimension(225,150));
 		procesador.setBackground(Color.LIGHT_GRAY);
 		add(procesador);
