@@ -31,7 +31,7 @@ public class Lamina extends JPanel {
 	}
 	
 	
-public String calcula(){ //El metodo me devuelve el boton seleccionado
+public String calcula(){ //El metodo me devuelve un boton seleccionado
 		
 		return grupo.getSelection().getActionCommand();
 	}
