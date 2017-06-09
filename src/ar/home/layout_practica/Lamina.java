@@ -23,7 +23,7 @@ public class Lamina extends JPanel {
 			
 			boton.setActionCommand(opciones[i]);
 			
-			boton.setSelected(i==0); //Para que el primero siempre este seleccionado
+			boton.setSelected(i==0); //Para que el primero siempre sea seleccionado
 			
 		}
 		
